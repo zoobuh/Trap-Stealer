@@ -18,7 +18,7 @@ echo                        MM
 echo                       _MM_                                       
 echo
 echo
-echo Coded By https://github.com/TheCuteOwl/
+echo sigma
 echo 
 echo Press any key to continue with the builder.
 read -n 1 -s -r -p ""
